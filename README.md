@@ -1,5 +1,4 @@
-# EmoEvent
-EmoEvent: A Multilingual Emotion Corpus based on different Events
+# EmoEvent: A Multilingual Emotion Corpus based on different Events
 
 In recent years emotion detection in text has become more popular due to its potential applications in fields such as psychology,
 marketing, political science, and artificial intelligence, among others. While opinion mining is a well-established task with many
