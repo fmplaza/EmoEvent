@@ -8,7 +8,10 @@ dataset based on different events that took place in April 2019. We collected tw
 emotions, six Ekman’s basic emotions plus the “neutral or other emotions”, was labeled on each tweet by 3 Amazon MTurkers. A total
 of 8,409 in Spanish and 7,303 in English were labeled.
 
-# Citation
+## Citation
+
+To cite this resource in a publication please use the following:
+
 ```
 @inproceedings{plaza-del-arco-etal-2020-emoevent,
     title = "{E}mo{E}vent: A Multilingual Emotion Corpus based on different Events",
